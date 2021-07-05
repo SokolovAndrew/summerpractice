@@ -1,0 +1,12 @@
+1 "The_Pragmatic_Programmer" D.Thomas 2000 39.47
+2 "Clean_Code" Robert_C.Martin 2500 33.33
+3 "Refactoring" M.Fowler 3000 23.57
+4 "The_Mythical_Man-Month" Frederick_P.Brooks_Jr. 2500 10.00
+5 "Design_Patterns" E.Gamma 1500 36.72
+6 "Soft_Skills" J.Sonmez 2400 14.00
+7 "Code_Complete" S.McConnell 2000 22.87
+8 "Code" Ch.Petzold 4000 24.74
+9 "Peopleware" T.DeMarco 2000 32.00
+10 "Programming_Pearls" J.Bentley 6000 14.46
+11 "The_Art_of_Computer_Programming" E.Knuth 1200 147.46
+12 "The_DevOps_Handbook" G.Kim 8000 17.86
